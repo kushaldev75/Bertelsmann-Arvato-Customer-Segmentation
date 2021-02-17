@@ -1,2 +1,2 @@
-# Bertlsmen-Arvato-Customer-Segmentation
+# Bertelsmann-Arvato-Customer-Segmentation
 Udacity Data Scientist Nanodegree Capstone Project
