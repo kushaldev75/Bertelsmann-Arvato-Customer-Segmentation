@@ -1,5 +1,5 @@
 # Bertelsmann-Arvato-Customer-Segmentation
-Udacity Data Scientist Nanodegree Capstone Project
+Inspired from Udacity Data Scientist Nanodegree
 
 The idea behind this project is to perform customer segmentation based on historical data provided by Arvato Financial Solutions.
 
@@ -21,4 +21,4 @@ All sofware dependencies are stated in the notebooks, however, the main librarie
 
 ---
 
-**Disclaimer**: the dataset is private and can not be shared as stated by Udacity's rules.
+**Disclaimer**: the dataset is private and can not be shared as stated by Udacity's rules. I personally took it from other people repositories which provided it under MIT License.
